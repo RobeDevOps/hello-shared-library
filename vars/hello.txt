@@ -1,7 +1,3 @@
-## This is an example of documentation
+This feature allows to greet people from your jenkins console.
 
-```
-hello (Map parameters)
-
-name: it should say hello to this person
-```
+<b>name: </b> Allows to define the person name to say hi. If value is empty it will greet the world.
