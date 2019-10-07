@@ -6,3 +6,5 @@ def call(Map parameters){
         echo "hello world"
     }
 }
+
+return this
