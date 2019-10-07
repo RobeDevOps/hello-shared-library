@@ -1,0 +1,7 @@
+## This is an example of documentation
+
+```
+hello (Map parameters)
+
+name: it should say hello to this person
+```
